@@ -3,6 +3,7 @@ import { Chart } from "react-google-charts";
 
 import { useLoaderData } from "react-router-dom";
 import { getDonations } from "../Utilities/localStorage";
+import { Helmet } from "react-helmet";
 
 const Statistics = () => {
   const donationData = useLoaderData();
@@ -24,6 +25,9 @@ const Statistics = () => {
 
   return (
     <>
+    <Helmet>
+      <title>Statistics | Donation Campaign</title>
+    </Helmet>
       <section className="my-32">
         <div className="container mx-auto px-5">
           <div>

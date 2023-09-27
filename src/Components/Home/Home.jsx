@@ -3,6 +3,7 @@ import Card from "../Card/Card";
 import Banner from "../Banner/Banner";
 import bannerImg from "../../assets/images/banner.jpg";
 import { useState } from "react";
+import { Helmet } from "react-helmet";
 
 const Home = () => {
   const data = useLoaderData();
@@ -18,6 +19,9 @@ const Home = () => {
   
   return (
     <>
+    <Helmet>
+      <title>Donation Campaign </title>
+    </Helmet>
       <section
         style={{ backgroundImage: `url(${bannerImg})` }}
         className="z-20 relative w-full min-h-[60vh] bg-center py-24 bg-cover flex flex-col justify-center items-center"

@@ -3,6 +3,7 @@ import { useLoaderData, useParams } from "react-router-dom";
 import { saveDonations } from "../Utilities/localStorage";
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
+import { Helmet } from "react-helmet";
 
 const DonationDetails = () => {
     const data = useLoaderData()
@@ -29,6 +30,9 @@ const DonationDetails = () => {
    
     return (
         <>
+        <Helmet>
+            <title>Donation Details: {id}</title>
+        </Helmet>
            <section className="py-24">
             <div className="container mx-auto px-5">
                 <div className="space-y-5">

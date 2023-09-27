@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import { getDonations } from "../Utilities/localStorage";
 import Donate from "../Donate/Donate";
 import { useLoaderData } from "react-router-dom";
+import { Helmet } from "react-helmet";
 
 const Donation = () => {
   const data = useLoaderData();
@@ -25,6 +26,9 @@ const Donation = () => {
 
   return (
     <>
+    <Helmet>
+      <title>Donation | Donation campaign</title>
+    </Helmet>
       <section className="mt-28 py-10">
         <div className="container mx-auto px-5">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
