@@ -1,0 +1,137 @@
+{
+    "donations": [
+      {
+        "id": 1,
+        "picture": "https://i.ibb.co/jGjGmyP/flat-world-humanitarian-day-illustration-23-2149004792.jpg",
+        "title": "Clean Water for Children",
+        "category": "Humanitarian",
+        "category_bg": "#dcf424",
+        "card_bg": "#E8F6EF",
+        "text_button_bg": "#001bff",
+        "description": "Clean and safe drinking water is a basic human right, but millions of children around the world lack access to it. Your donation can make a real difference in the lives of these children. By supporting our Clean Water for Children program, you provide clean water sources, water purification systems, and hygiene education to communities in need. Your generosity helps prevent waterborne diseases and ensures a brighter future for these children.\n\nPrice: $25",
+        "price": 25
+      },
+      {
+        "id": 2,
+        "picture": "https://i.ibb.co/mDBVnsJ/medium-shot-boy-portrait-with-graduation-background-23-2150293635.jpg",
+        "title": "Educational Scholarships",
+        "category": "Education",
+        "category_bg": "#FFD700",
+        "card_bg": "#FFF0E3",
+        "text_button_bg": "#FF5733",
+        "description": "Education is the key to breaking the cycle of poverty. Many talented students from disadvantaged backgrounds struggle to access quality education. Your donation can change their lives by providing educational scholarships. These scholarships cover tuition fees, books, and educational materials, giving students the opportunity to pursue their dreams and build a better future.\n\nPrice: $50",
+        "price": 50
+      },
+      {
+        "id": 3,
+        "picture": "https://i.ibb.co/2n5Pcn0/volumetric-drop-with-ecosystem-inside-generative-ai-169016-28708.jpg",
+        "title": "Nature Conservation",
+        "category": "Environment",
+        "category_bg": "#bbf3e9",
+        "card_bg": "#E6F7FF",
+        "text_button_bg": "#28A745",
+        "description": "Our planet's biodiversity is under threat, and ecosystems are disappearing at an alarming rate. Your support for nature conservation initiatives can help protect endangered species and preserve fragile ecosystems. Your donation will be used for habitat restoration, wildlife protection, and environmental education to create a sustainable future for our planet.\n\nPrice: $35",
+        "price": 35
+      },
+      {
+        "id": 4,
+        "picture": "https://i.ibb.co/jGjGmyP/flat-world-humanitarian-day-illustration-23-2149004792.jpg",
+        "title": "Food Relief for Families",
+        "category": "Humanitarian",
+        "category_bg": "#dcf424",
+        "card_bg": "#FFF0E3",
+        "text_button_bg": "#001bff",
+        "description": "Many families are struggling to put food on the table, especially during times of crisis. Your donation to our Food Relief for Families program can provide essential food items to those in need. We work with local communities to distribute nutritious meals and food packages, ensuring that no one goes to bed hungry.\n\nPrice: $20",
+        "price": 20
+      },
+      {
+        "id": 5,
+        "picture": "https://i.ibb.co/YPx3Cn3/team-volunteers-holding-donation-boxes-looking-camera-637285-10775.jpg",
+        "title": "Medical Supplies for Clinics",
+        "category": "Healthcare",
+        "category_bg": "#5ff63f",
+        "card_bg": "#FFF5E1",
+        "text_button_bg": "#007BFF",
+        "description": "Access to healthcare is a fundamental right, but many clinics in underserved areas lack the necessary medical supplies. Your donation can save lives by providing essential medical equipment and supplies to these clinics. We aim to ensure that every person, regardless of their location, can receive quality medical care when needed.\n\nPrice: $40",
+        "price": 40
+      },
+      {
+        "id": 6,
+        "picture": "https://i.ibb.co/mDBVnsJ/medium-shot-boy-portrait-with-graduation-background-23-2150293635.jpg",
+        "title": "Educational Resources for Schools",
+        "category": "Education",
+        "category_bg": "#FFD700",
+        "card_bg": "#FFF0E3",
+        "text_button_bg": "#FF5733",
+        "description": "Many schools lack the resources needed to provide a quality education. Your donation can empower students by providing educational materials, books, and technology to schools in need. Together, we can bridge the educational gap and ensure that every child has access to a world-class education.\n\nPrice: $30",
+        "price": 30
+      },
+      {
+        "id": 7,
+        "picture": "https://i.ibb.co/2n5Pcn0/volumetric-drop-with-ecosystem-inside-generative-ai-169016-28708.jpg",
+        "title": "Clean Energy Solutions",
+        "category": "Environment",
+        "category_bg": "#bbf3e9",
+        "card_bg": "#E6F7FF",
+        "text_button_bg": "#28A745",
+        "description": "Transitioning to clean energy is essential for a sustainable future. Your donation can support the development and implementation of clean energy solutions, such as solar power and wind energy projects. By reducing our reliance on fossil fuels, we can combat climate change and protect our environment.\n\nPrice: $50",
+        "price": 50
+      },
+      {
+        "id": 8,
+        "picture": "https://i.ibb.co/jGjGmyP/flat-world-humanitarian-day-illustration-23-2149004792.jpg",
+        "title": "Emergency Relief for Disasters",
+        "category": "Humanitarian",
+        "category_bg": "#dcf424",
+        "card_bg": "#FFF0E3",
+        "text_button_bg": "#001bff",
+        "description": "Natural disasters can strike at any moment, leaving communities in distress. Your donation to emergency relief efforts helps provide immediate assistance to those affected by disasters. We offer food, shelter, medical aid, and emotional support to help people rebuild their lives after tragedy strikes.\n\nPrice: $25",
+        "price": 25
+      },
+      {
+        "id": 9,
+        "picture": "https://i.ibb.co/jGjGmyP/flat-world-humanitarian-day-illustration-23-2149004792.jpg",
+        "title": "Support for Orphaned Children",
+        "category": "Humanitarian",
+        "category_bg": "#dcf424",
+        "card_bg": "#FFF0E3",
+        "text_button_bg": "#001bff",
+        "description": "Orphaned children face unique challenges and often lack the support they need. Your donation can make a lasting impact by providing essential care, education, and emotional support to orphaned children. Together, we can give these children a chance for a brighter future.\n\nPrice: $35",
+        "price": 35
+      },
+      {
+        "id": 10,
+        "picture": "https://i.ibb.co/2n5Pcn0/volumetric-drop-with-ecosystem-inside-generative-ai-169016-28708.jpg",
+        "title": "Reforestation and Tree Planting",
+        "category": "Environment",
+        "category_bg": "#bbf3e9",
+        "card_bg": "#E6F7FF",
+        "text_button_bg": "#28A745",
+        "description": "Deforestation is a major threat to our planet's health. Your donation can help combat this by supporting reforestation and tree planting initiatives. We aim to restore forests, combat climate change, and create habitats for wildlife through sustainable tree planting projects.\n\nPrice: $40",
+        "price": 40
+      },
+      {
+        "id": 11,
+        "picture": "https://i.ibb.co/jGjGmyP/flat-world-humanitarian-day-illustration-23-2149004792.jpg",
+        "title": "Empower Women and Girls",
+        "category": "Humanitarian",
+        "category_bg": "#dcf424",
+        "card_bg": "#FFF0E3",
+        "text_button_bg": "#001bff",
+        "description": "Empowering women and girls is crucial for gender equality and social progress. Your donation can support initiatives that provide education, vocational training, and resources to empower women and girls to reach their full potential. Together, we can break down barriers and create a more equitable world.\n\nPrice: $30",
+        "price": 30
+      },
+      {
+        "id": 12,
+        "picture": "https://i.ibb.co/YPx3Cn3/team-volunteers-holding-donation-boxes-looking-camera-637285-10775.jpg",
+        "title": "Support for Elderly Care",
+        "category": "Healthcare",
+        "category_bg": "#5ff63f",
+        "card_bg": "#FFF5E1",
+        "text_button_bg": "#007BFF",
+        "description": "Elderly individuals often require specialized care and support. Your donation can provide essential services, such as healthcare, companionship, and access to community programs, for the elderly. Let's honor our elders by ensuring they receive the care and respect they deserve.\n\nPrice: $25",
+        "price": 25
+      }
+    ]
+  }
+  
